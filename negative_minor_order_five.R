@@ -1,5 +1,5 @@
 # Strict total positivity of a Gauss hypergeometric kernel
-# Appendix D.2: certify the negative conformal-block minor of order five.
+# Appendix D: certify the negative conformal-block minor of order five.
 #
 # Requires R >= 4.3 and the CRAN package flint (install.packages("flint")).
 # Tested with R 4.5.0 and flint 0.1.5.
